@@ -1,0 +1,8 @@
+-classpath '/home/runner/work/oop/oop/Task_1_1_1/build/classes/java/main:/home/runner/work/oop/oop/Task_1_1_1/build/resources/main'
+-d '/home/runner/work/oop/oop/Task_1_1_1/build/docs/javadoc'
+-doctitle 'Task_1_1_1 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Task_1_1_1 1.0-SNAPSHOT API'
+'/home/runner/work/oop/oop/Task_1_1_1/src/main/java/Main.java'
+'/home/runner/work/oop/oop/Task_1_1_1/src/main/java/Heap.java'
