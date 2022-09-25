@@ -50,7 +50,7 @@ public class HeapTest {
 
         flag = false;
         try {
-            heap.get(-10);
+            heap.get(-11);
         } catch (ArrayIndexOutOfBoundsException e) {
             flag = true;
         }
